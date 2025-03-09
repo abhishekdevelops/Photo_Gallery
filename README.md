@@ -1,4 +1,4 @@
-A responsive Photo Gallery built using HTML and CSS Flexbox. This project is part of my learning journey for the Responsive Web Design Certification on freeCodeCamp, focusing on Flexbox for modern web layouts.
+A responsive Photo Gallery built using HTML and CSS Flexbox. This project is part of my learning journey for the Responsive Web Design Certification on  **[freeCodeCamp](https://www.freecodecamp.org/)** focusing on Flexbox for modern web layouts.
 
 🚀 Live Demo
 🔗 View the Photo Gallery  (https://abhishekdevelops.github.io/Photo_Gallery/)
